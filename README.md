@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋,
+### im Sebastian
+
+My name is Sebastian Munaretto and I am an italian computer science student.I am very interested in mashine learining and python but I also develop web app mostly with the MEAN stack but also in PHP and raw HTML CSS and JS.
+
 
 <!--
 **SebastianMunaretto/SebastianMunaretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
