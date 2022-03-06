@@ -3,5 +3,5 @@ My name is Sebastian Munaretto, and I am an Italian computer science student. I 
 
 <hr>
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=SebastianMunaretto&show_icons=ture&include_all_commits=false&count_private=true&theme=dark&hide_border=true">
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMunaretto&layout=compact&theme=dark&hide_border=true">
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=SebastianMunaretto&show_icons=ture&include_all_commits=false&count_private=true&theme=dark&hide_border=true">
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMunaretto&layout=compact&theme=dark&hide_border=true">
