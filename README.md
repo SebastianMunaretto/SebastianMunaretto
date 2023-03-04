@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Sebastian Munaretto, and I am an Italian computer science student. I am very interested in machine learning and data science with python, but I also develop web apps mostly with the MEAN stack but also in PHP and raw HTML CSS and JS. I sometimes develop desktop apps in Java, mobile apps in Flutter/Dart or code more scientific stuff in C or in python.
+
+Welcome to my Github profile! I'm Sebastian Munaretto, a passionate computer science student from Italy with a strong interest in machine learning and data science using Python. However, I don't limit myself to just one field, as I also love developing web apps using the MEAN stack, as well as utilizing my skills in PHP, HTML, CSS, and JS. Sometimes I enjoy dabbling in desktop app development using Java or building mobile apps with Flutter/Dart. On occasion, I even like to delve into more scientific areas, using C or Python. With a strong curiosity and willingness to learn, I'm always excited to take on new challenges and projects!
 
 <hr>
 
