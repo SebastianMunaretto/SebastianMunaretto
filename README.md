@@ -4,5 +4,4 @@ I'm Sebastian Munaretto, a passionate computer science student from Italy with a
 
 <hr>
 
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=SebastianMunaretto&show_icons=ture&include_all_commits=false&count_private=true&theme=dark&hide_border=true">
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMunaretto&layout=compact&theme=dark&hide_border=true">
+[![GitHub Streak](https://streak-stats.demolab.com?user=SebastianMunaretto&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
