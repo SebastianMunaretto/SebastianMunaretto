@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Passionate computer science student from Italy<br>🧠 Strong interest in machine learning and data science using Python<br>💻 Skilled in developing web apps using the MEAN stack, as well as PHP, HTML, CSS, and JS<br>📱 Experience in building mobile apps with Flutter/Dart<br>💻 Occasionally dabbles in desktop app development using Java<br>🐍 Also enjoys working with C and Python for scientific projects<br>🤓 Always curious and willing to learn, excited to take on new challenges and projects!
+👨‍💻 Passionate computer science student from Italy<br>🧠 Strong interest in machine learning and data science using Python<br>💻 Skilled in developing web apps using the MEAN stack, as well as PHP, HTML, CSS, and JS<br>📱 Experience in building mobile apps with Flutter/Dart<br>💻 Occasionally dabbles in desktop app development using Java<br>🐍 Also enjoys working with C and Python for scientific projects<br>🤓 Always curious and willing to learn, excited to take on new challenges and projects!<br>🔒 <b>GitHub activity may appear low, as most of my work is done on private repositories or under a company account</b>
 
 
 ## 🌐 Socials:
